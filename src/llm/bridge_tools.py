@@ -46,6 +46,8 @@ def get_fastest_zipcode(month):
 
 # helper method to find zip code by response time
 def _get_zipcode_by_response_time(month, is_ascending):
+    if type(month) is not int or not 1 <= month <= 12:
+        raise ValueError("Month must be an integer between 1 and 12")
     df = pd.read_csv(DATA_PROCESSED / "zipcode_response_times.csv", low_memory=False)
 
     # Filter by month
