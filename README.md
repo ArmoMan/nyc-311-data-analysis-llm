@@ -1,4 +1,4 @@
-# NYC 311 Data Analytics
+# NYC 311 Data Analysis with LLM
 
 A Python-based data analysis project exploring New York City's 311 service requests from 2024.
 
