@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+data/raw/*
+data/processed/2024data.csv
+data/processed/2024_trimmed_data.csv
+!data/raw/.gitkeep
