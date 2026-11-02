@@ -109,19 +109,19 @@ PYTHONPATH=. bokeh serve dashboards/response_time_dashboard.py --show
 
 ### LLM-Powered Assistant
 
-![NYC 311 AI Assistant](Pictures/agent_streamlit.png)
+![NYC 311 AI Assistant](pictures/agent_streamlit.png)
 
 ### Noise Complaints Dashboard
 
-![Noise Complaints Dashboard](Pictures/noise_complaints.png)
+![Noise Complaints Dashboard](pictures/noise_complaints.png)
 
 ### Rodent Complaints Dashboard
 
-![Rodent Complaints Dashboard](Pictures/rodent_complaints.png)
+![Rodent Complaints Dashboard](pictures/rodent_complaints.png)
 
 ### Response Time Dashboard
 
-![Response Time Dashboard](Pictures/response_time.png)
+![Response Time Dashboard](pictures/response_time.png)
 
 ## Testing
 
