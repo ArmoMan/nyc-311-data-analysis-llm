@@ -6,4 +6,4 @@ pandas
 bokeh
 matplotlib
 jupyter
-flake8
+# flake8
